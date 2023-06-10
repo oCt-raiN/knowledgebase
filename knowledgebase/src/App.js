@@ -11,7 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <Button href="http://celaicindia.in/"> This is a </Button>
+        <Button href="http://celiacindia.in/"> c </Button>
         <a
           className='as'
           href='celiacindia.in'
